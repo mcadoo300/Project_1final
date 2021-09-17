@@ -1,0 +1,92 @@
+Default constructor: 
+null
+num items is: 0
+Size of bag is : 0
+
+Augmented constructor[100]: 
+null
+num items is: 0
+Size of bag is : 100
+
+test if isEmpty
+
+null
+num items is: 0
+Size of bag is : 100
+
+Insert 5 items
+
+apple
+milk
+bread
+eggs
+bannananan
+
+num items is: 5
+Size of bag is : 100
+
+Remove last
+
+apple
+milk
+bread
+eggs
+
+num items is: 4
+Size of bag is : 100
+
+Test is full method
+apple
+milk
+bread
+eggs
+
+num items is: 4
+Size of bag is : 5
+
+Bag is not full
+
+apple
+milk
+bread
+eggs
+bannananan
+
+num items is: 5
+Size of bag is : 5
+Bag is full
+Get eggs: 3
+Get Item at 3: eggs
+Remove Random
+
+milk
+bread
+eggs
+
+num items is: 3
+Size of bag is : 100
+
+Make Empty
+
+null
+num items is: 0
+Size of bag is : 100
+
+Test insert from file
+
+apple
+milk
+bread
+eggs
+bannananan
+cheese
+noodles
+scallions
+ice cream
+
+num items is: 9
+Size of bag is : 100
+
+
+////
+
